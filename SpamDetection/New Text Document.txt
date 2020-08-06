@@ -1,0 +1,10 @@
+#Get the word- corpus
+#Tokenisation-beak down the docs
+ex-doc-sentence-words
+#Stop word Removal
+#Stemming-Convert d/f form of words into single word.
+ex-running ran-run
+#Build Vocabulary-list of uniques words along whole training set
+#Assign No. to each words
+Naive Bayes
+Find probability with each class and max is my answer.
